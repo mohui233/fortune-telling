@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "mingpan": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mingpan"
+      ]
+    }
+  }
+}
