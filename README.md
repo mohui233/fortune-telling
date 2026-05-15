@@ -1,4 +1,4 @@
-# 命理咨询 Skill (Fortune-Telling)
+# 八字命理 Skill (Fortune-Telling)
 
 > "了解先天禀赋，规划更好的人生。"
 
